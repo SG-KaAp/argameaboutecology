@@ -429,3 +429,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99026
+  packageName: Vuforia Core Samples
+  packageVersion: 11.3.4
+  assetPath: Assets/TextMesh Pro/Sprites/EmojiOne.png
+  uploadId: 764483
